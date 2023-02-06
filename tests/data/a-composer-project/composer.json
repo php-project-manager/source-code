@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-0": {
+            "DummyComposerPsr0\\": "psr0/"
+        },
+        "psr-4": {
+            "DummyComposerPsr4\\": "psr4/"
+        },
+        "classmap": ["classmap/"],
+        "files": ["files/DummyFileClass.php"]
+    }
+}
